@@ -1,4 +1,4 @@
-# california_counties_zipcodes
+# California Zip codes from Counties.
 Feel free to get a python list for all Zip Codes in Californian Counties.
 
 I will be adding more Counties as I need to use them in my personal project.
